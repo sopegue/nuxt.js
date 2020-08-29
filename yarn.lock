@@ -2696,18 +2696,18 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/server-test-utils@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/@vue/server-test-utils/-/server-test-utils-1.0.4.tgz#5625b22a07e97d7ea47199b7f4126fb481a49278"
-  integrity sha512-fO2vCPJnbPbR0Trs9zCao8j9+G83xTSBHGw4+Dlkd+zEpWM5vewLGDmKPIa6SBgGPPUkmVzpAvG9aEL8vKr/TQ==
+"@vue/server-test-utils@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/@vue/server-test-utils/-/server-test-utils-1.0.5.tgz#5b484e9d824105f69eaaaf0fb70af563770b1fd6"
+  integrity sha512-EcvBUs2+NpkukpIFTA/zmC+7lPTagXeDE9cfLkjUgeeFxIszHvx+zdtUGZEeTCEm4kNaLbom+ftu/zPoRiQkkg==
   dependencies:
     "@types/cheerio" "^0.22.10"
     cheerio "^1.0.0-rc.2"
 
-"@vue/test-utils@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/@vue/test-utils/-/test-utils-1.0.4.tgz#6341caccdf72da5914a5168e680ea12550fba98a"
-  integrity sha512-uIdDqFauzNJWlhltLSZU+P3uHEgUQczklSv2b1EKC7JzxBg9OY/5sx8UyuJwBD+zuxidhFZ4SjTuPgr8cdf63w==
+"@vue/test-utils@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/@vue/test-utils/-/test-utils-1.0.5.tgz#676e1f986bb93ddc869d9c6cf1c820183d64d92f"
+  integrity sha512-P2x8kXwqfTXesAdfJQN146V1S3QD3Xv9wYZ1B09Oecmg7I3Fpqqo1CwfIn5ivwuXyBPQWFDH4vyBHynnYjIkRg==
   dependencies:
     dom-event-types "^1.0.0"
     lodash "^4.17.15"
@@ -3941,10 +3941,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, can
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001117.tgz#69a9fae5d480eaa9589f7641a83842ad396d17c4"
   integrity sha512-4tY0Fatzdx59kYjQs+bNxUwZB03ZEBgVmJ1UkFPz/Q8OLiUUbjct2EdpnXj0fvFTPej2EkbPIG0w8BWsjAyk1Q==
 
-caniuse-lite@^1.0.30001118:
-  version "1.0.30001118"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001118.tgz#116a9a670e5264aec895207f5e918129174c6f62"
-  integrity sha512-RNKPLojZo74a0cP7jFMidQI7nvLER40HgNfgKQEJ2PFm225L0ectUungNQoK3Xk3StQcFbpBPNEvoWD59436Hg==
+caniuse-lite@^1.0.30001119:
+  version "1.0.30001119"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001119.tgz#99185d04bc00e76a86c9ff731dc5ec8e53aefca1"
+  integrity sha512-Hpwa4obv7EGP+TjkCh/wVvbtNJewxmtg4yVJBLFnxo35vbPapBr138bUWENkb5j5L9JZJ9RXLn4OrXRG/cecPQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -10718,10 +10718,10 @@ prettier@^1.18.2:
   resolved "https://registry.npmjs.org/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
 
-pretty-bytes@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.3.0.tgz#f2849e27db79fb4d6cfe24764fc4134f165989f2"
-  integrity sha512-hjGrh+P926p4R4WbaB6OckyRtO0F0/lQBiT+0gnxjV+5kjPBrfVBFCsCLbMqVQeydvIoouYTCmmEURiH3R1Bdg==
+pretty-bytes@^5.4.0:
+  version "5.4.0"
+  resolved "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.4.0.tgz#b5efc2638cfc0a5e8c369bb0418abb4b386c7c6d"
+  integrity sha512-ctjMzsPQfGSyThWQ9//I6egmiEL/F0VgHKW4atxRd1V8+CPm0J/hihZJp0nb0GDRLUpICyCZTG1f/lE/42f/VQ==
 
 pretty-error@^2.1.1:
   version "2.1.1"
@@ -11505,10 +11505,10 @@ rollup-plugin-license@^2.2.0:
     spdx-expression-validate "2.0.0"
     spdx-satisfies "5.0.0"
 
-rollup@2.26.6:
-  version "2.26.6"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.26.6.tgz#0b460c1da224c6af12a1e948a28c513aa11f2b93"
-  integrity sha512-iSB7eE3k/VNQHnI7ckS++4yIqTamoUCB1xo7MswhJ/fg22oFYR5+xCrUZVviBj97jvc5A31MPbVMw1Wc3jWxmw==
+rollup@2.26.8:
+  version "2.26.8"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.26.8.tgz#7b02353835a73c4797f42177a5fa3fc074012713"
+  integrity sha512-li9WaJYc5z9WzV1jhZbPQCrsOpGNsI+Li1qyrn5n745ZNSnlkRlBtj1Hs+Z0Dc2N1+P7HT34UKAEASqN9Th8cg==
   optionalDependencies:
     fsevents "~2.1.2"
 
